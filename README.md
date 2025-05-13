@@ -9,13 +9,13 @@ There are over 5,000 new lower limb amputations every year in the UK, and a majo
 
 Many patient anatomy, surgery and disease factors can influence the socket design; however, few researchers have access to volumetric medical imaging data required to perform biomechanical analysis of socket designs. 
 
-OpenLimbTT is a resource which contains a statistical description of transtibial amputated residual limbs based upon MRI scan data collected by the University of Southampton, UK, Flinders University, Australia, and Imperial College, UK in ethically-approved research projects, and at the New Mexico Decedent Individuals Database, USA, based on CT images. These descriptions include the external surface of the residual limb, the distal femur, patella, and residual tibia and fibula  (Figure 1, below).
+OpenLimbTT is a resource which contains a statistical description of transtibial amputated residual limbs based upon MRI scan data collected by the University of Southampton, UK, Flinders University, Australia, and Imperial College, UK in ethically-approved research projects, and at the New Mexico Decedent Individuals Database, USA, based on CT images. These descriptions include the external surface of the residual limb, the distal femur, patella, and residual tibia and fibula  (Figure 1, below). The Machine Learning method Principal Component Analysis (PCA) has been used to reduce the dimensionality of this anatomic dataset to generate a mean residual limb shape, and independent modes of shape variation. As such, the dataset describes the anatomic variation across the training dataset without including any identifiable representation of the individuals.
 
 <p align="center">
   <img src="../main/abstract/Process.png" alt="Generating a transtibial residual limb Statistical Shape Model from medical imaging data (1), segmented, aligned and registered (2) to produce a mean shape (3) and principal modes of shape variability (4) shown in anterior and lateral views, with associated variance %" width="600"/>
 </p>
 
-The Machine Learning method Principal Component Analysis (PCA) has been used to reduce the dimensionality of this anatomic dataset to generate a mean residual limb shape, and independent modes of shape variation (Figure 2, below). As such, the dataset describes the anatomic variation across the training dataset without including any identifiable representation of the individuals.
+In addition to characterising and measuring residual limb size and shape, this statistical shape analysis method allows synthetic data generation (Figure 2, below), whereby anatomically feasible residual limbs can be created with desired characteristics, for example to generate virtual test cases of particular interest or concern, to assist in prosthetics design or structural analysis.
 
 <p align="center">
   <img src="../main/abstract/Modes1&2.png" alt="Creating example virtual individuals from the mean limb shape and its variation in the first two principal modes" width="250"/>
