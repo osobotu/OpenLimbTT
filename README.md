@@ -18,7 +18,7 @@ OpenLimbTT is a resource which contains a statistical description of transtibial
 In addition to characterising and measuring residual limb size and shape, this statistical shape analysis method allows synthetic data generation (Figure 2, below), whereby anatomically feasible residual limbs can be created with desired characteristics, for example to generate virtual test cases of particular interest or concern, to assist in prosthetics design or structural analysis.
 
 <p align="center">
-  <img src="../main/abstract/Modes1&2.png" alt="Creating example virtual individuals from the mean limb shape and its variation in the first two principal modes. This shows individuals from the 2.5th to 97.5th percentiles of variation" width="250"/>
+  <img src="../main/abstract/Modes1&2.png" alt="Creating example virtual individuals from the mean limb shape and its variation in the first two principal modes, from 2.5th to 97.5th percentiles" width="250"/>
 </p>
 
 This dataset is intended to allow the research community to perform more statistically robust prosthetic biomechanics research, without the costs, inconvenience, and risk of putting our relatively small community of eligible research participants through medical imaging.
@@ -32,9 +32,9 @@ For more detailed descriptions of the dataset and statistical testing behind it,
 How to acknowledge
 ------------------
 
-OpenLimbTT has been presented at the 2023 International Society for Prosthetics & Orthotics World Congress, and a full paper is accepted for publication at the journal Data Centric Engineering, now in press. Please cite as:
+OpenLimbTT has been presented at the 2023 International Society for Prosthetics & Orthotics World Congress, and the full journal paper has been accepted for publication after peer review by the journal Data Centric Engineering. Please cite as:
 
-F.E. Sunderland, A.J. Sobey, J.L. Bramley, J.W. Steer, R. Al-Dirini, C.D. Metcalf, the OpenLimb Group, P.R. Worsley, A.S. Dickinson (2025), OpenLimbTT, a Transtibial Residual Limb Shape Model for Prosthetics Simulation and Design: creating a statistical anatomic model using sparse data. medRxiv 2024.11.27.24317622; doi: [https://doi.org/10.1101/2024.11.27.24317622](https://doi.org/10.1101/2024.11.27.24317622), and [https://github.com/abel-research/openlimbTT](https://github.com/abel-research/OpenLimbTT).
+F.E. Sunderland, A.J. Sobey, J.L. Bramley, J.W. Steer, R. Al-Dirini, D. Toderita, A. Bull, Z. Ding, D. Henson, C.D. Metcalf, the OpenLimb Group, P.R. Worsley, A.S. Dickinson (2025), OpenLimbTT, a Transtibial Residual Limb Shape Model for Prosthetics Simulation and Design: creating a statistical anatomic model using sparse data. medRxiv 2024.11.27.24317622; doi: [https://doi.org/10.1101/2024.11.27.24317622](https://doi.org/10.1101/2024.11.27.24317622), and [https://github.com/abel-research/openlimbTT](https://github.com/abel-research/OpenLimbTT).
 
 or:
 
