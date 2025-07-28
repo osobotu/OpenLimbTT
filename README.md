@@ -23,7 +23,7 @@ In addition to characterising and measuring residual limb size and shape, this s
 
 This dataset is intended to allow the research community to perform more statistically robust prosthetic biomechanics research, without the costs, inconvenience, and risk of putting our relatively small community of eligible research participants through medical imaging.
 
-The latest OpenLimbTT Version-2025-07 is based upon 33 training datasets, 4 female and 29 male of a variety of ethnicities (12 White European/US, 9 Hispanic, 5 Native American, 1 African American, and 6 not recorded). The publications below comment upon its limited statistical generality, but it does provide a preliminary representation of UK and a proportion of the US populations. 
+The latest OpenLimbTT Version-2025-07 is based upon 33 training datasets, 4 female and 29 male of a variety of ethnicities (12 White European/US, 9 Latino, 5 Native American, 1 African American, and 6 not recorded). The publications below comment upon its limited statistical generality, but it does provide a preliminary representation of UK and a proportion of the US populations. 
 
 You can download the model's mean shape, and virtual patient shapes covering 20th to 80th percentiles of training dataset variation in residual limb length and soft tissue bulbous-conical profile, as .stl files. These are normalised to the fractional intact length of the tibia, so should be scaled up to the desired intact tibia length.
 
