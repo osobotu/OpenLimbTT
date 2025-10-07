@@ -1,7 +1,7 @@
 # OpenLimbTT
 An Open-Source transtibial residual limb anatomic dataset
 
-**DOI:** [![DOI](https://img.shields.io/badge/doi-10.1101/2024.11.27.24317622-brightgreen)](https://doi.org/10.1101/2024.11.27.24317622)
+**DOI:** [![DOI](https://img.shields.io/badge/doi-10.1017/dce.2025.10019-brightgreen)](https://doi.org/10.1017/dce.2025.10019)
 **Data License:** [![License](https://img.shields.io/badge/license-CC--BY--SA--4.0-green)](../main/DATA-LICENSE)
 **Code License:** [![License](https://img.shields.io/badge/license-MIT-blueviolet)](../main/CODE-LICENSE)
 
@@ -34,7 +34,7 @@ How to acknowledge
 
 OpenLimbTT has been presented at the 2023 International Society for Prosthetics & Orthotics World Congress, and the full journal paper has been accepted for publication after peer review by the journal Data Centric Engineering. Please cite as:
 
-F.E. Sunderland, A.J. Sobey, J.L. Bramley, J.W. Steer, R. Al-Dirini, D. Toderita, A. Bull, Z. Ding, D. Henson, C.D. Metcalf, the OpenLimb Group, P.R. Worsley, A.S. Dickinson (2025), OpenLimbTT, a Transtibial Residual Limb Shape Model for Prosthetics Simulation and Design: creating a statistical anatomic model using sparse data. medRxiv 2024.11.27.24317622; doi: [https://doi.org/10.1101/2024.11.27.24317622](https://doi.org/10.1101/2024.11.27.24317622), and [https://github.com/abel-research/openlimbTT](https://github.com/abel-research/OpenLimbTT).
+F.E. Sunderland, A.J. Sobey, J.L. Bramley, J.W. Steer, R. Al-Dirini, C.D. Metcalf, D. Toderita, A. Bull, Z. Ding, D. Henson, P.R. Worsley, A.S. Dickinson and the OpenLimb Group (2025), OpenLimbTT, a transtibial residual limb shape model for prosthetics simulation and design: creating a statistical anatomic model using sparse data. Data-Centric Engineering. 2025;6:e39; doi: [https://doi.org/10.1017/dce.2025.10019](https://doi.org/10.1101/2024.11.27.24317622), and [https://github.com/abel-research/openlimbTT](https://github.com/abel-research/OpenLimbTT).
 
 or:
 
